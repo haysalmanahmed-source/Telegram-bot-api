@@ -1,2 +1,2 @@
-​FROM tdlib/telegram-bot-api:latest
+FROM tdlib/telegram-bot-api:latest
 CMD ["--local"]
